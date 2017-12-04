@@ -1,0 +1,6 @@
+PIGNARD FLORIAN
+CLUSEL MATHIEU
+MONBEIG Jonathan
+													REynaud Louis
+
+Nous avons réussi a faire la creation d'un patient, son affectation et sa désaffection. Suite à l'implémentation de l'api map, la fonction d'affectation a cessé de fonctionner. L'api google map ne fonctionne malheuremsent pas après divers essais.
